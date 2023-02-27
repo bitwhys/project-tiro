@@ -4,6 +4,6 @@
 
 @layer base {
   body,#__next {
-    @apply font-semibold bg-neutral-1;
+    @apply font-semibold bg-neutral-1 text-neutral-12;
   }
 }
